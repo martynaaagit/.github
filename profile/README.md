@@ -41,4 +41,4 @@ We would love to hear if you have implemented solutions based on TYPO3 Headless.
 
 ## YOU MAY ALSO LIKE
 
-Looking for services around TYPO3 Headless? Check the Leading [PWA solution for TYPO3](https://t3pwa.com/).
+Looking for services around TYPO3 Headless? Check the leading [PWA solution for TYPO3](https://t3pwa.com/).
