@@ -13,7 +13,7 @@ TYPO3 Headless is a stable and verified extension that was implemented for many 
 
 Check the list of some websites using TYPO3 Headless:
 
-[Macmillan English](https://www.macmillanenglish.com/) -
+[Macmillan Education](https://www.macmillanenglish.com/) -
 English language teaching publisher
 
 [Raben Group](https://www.raben-group.com/) -
@@ -38,3 +38,7 @@ We would love to hear if you have implemented solutions based on TYPO3 Headless.
 [Frontend](https://typo3-headless.github.io/nuxt-typo3/)
 
 [Backend](https://docs.typo3.org/p/friendsoftypo3/headless/main/en-us/Index.html)
+
+## YOU MAY ALSO LIKE
+
+Looking for services around TYPO3 Headless? Check the Leading [PWA solution for TYPO3](https://t3pwa.com/).
