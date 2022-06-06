@@ -31,7 +31,7 @@ company offering employee benefits to B2B partners
 [Macopedia](https://macopedia.com/) -
 technology partner and software vendor
 
-We would love to hear if you have implemented solutions based on TYPO3 Headless. Make sure to let us know via *headless@macopedia.pl*.
+We would love to hear if you have implemented solutions based on TYPO3 Headless. Make sure to let us know via *headless@macopedia.com*.
 
 ## DOCUMENTATION
 
