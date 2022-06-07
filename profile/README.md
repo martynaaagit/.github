@@ -22,6 +22,9 @@ international logistics partner
 [Pearson](https://www.pearson.pl/) -
 provider of educational content
 
+[Robomow](https://robomow.com/) -
+garden equipment production and distribution
+
 [MTD](https://mtd-en.com/) -
 garden equipment production and distribution
 
