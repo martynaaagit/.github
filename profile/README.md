@@ -35,10 +35,21 @@ We would love to hear if you have implemented solutions based on TYPO3 Headless.
 
 ## DOCUMENTATION
 
+Check the links below if you want to get started with TYPO3 Headless or get help with the project:
+
 [Frontend](https://typo3-headless.github.io/nuxt-typo3/)
 
 [Backend](https://docs.typo3.org/p/friendsoftypo3/headless/main/en-us/Index.html)
 
-## YOU MAY ALSO LIKE
+[Demo](https://github.com/TYPO3-Headless/pwa-demo)
 
-Looking for services around TYPO3 Headless? Check the leading [PWA solution for TYPO3](https://t3pwa.com/).
+## AUTHORS
+
+TYPO3 Headless is brought to you by Macopedia with a big support of the community. We provide recommendations for Headless CMS software and deliver services tailored to business needs: TYPO3 Headless implementation, consulting, technical training, support and reviews. [Work with us!](https://macopedia.com/products/pwa?utm_source=GitHub)
+
+## BECOME A CONTRIBUTOR
+
+Does the vision and motivation behind TYPO3 Headless sound interesting to you? Great! You are welcome to help improve this guide in any form. Give us feature suggestions directly via headless@macopedia.com or in [#initiative-headless-pwa](https://typo3.slack.com/archives/CDJK80WV6) Slack channel, submit your change request and report a problem.
+
+## YOU MAY ALSO LIKE
+:pushpin: Looking for services around TYPO3 Headless? Check the leading [PWA solution for TYPO3](https://t3pwa.com/?utm_source=GitHub)(TYPO3 PWA Implementation, Consulting & SLA Package, Education Package, Custom Project).
