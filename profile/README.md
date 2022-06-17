@@ -52,4 +52,4 @@ TYPO3 Headless is brought to you by Macopedia with a big support of the communit
 Does the vision and motivation behind TYPO3 Headless sound interesting to you? Great! You are welcome to help improve this guide in any form. Give us feature suggestions directly via headless@macopedia.com or in [#initiative-headless-pwa](https://typo3.slack.com/archives/CDJK80WV6) Slack channel, submit your change request and report a problem.
 
 ## YOU MAY ALSO LIKE
-:pushpin: Looking for services around TYPO3 Headless? Check the leading [PWA solution for TYPO3](https://t3pwa.com/?utm_source=GitHub)(TYPO3 PWA Implementation, Consulting & SLA Package, Education Package, Custom Project).
+:pushpin: Looking for services around TYPO3 Headless? Check the leading [PWA solution for TYPO3](https://t3pwa.com/?utm_source=GitHub) – TYPO3 PWA Implementation, Consulting & SLA Package, Education Package, Custom Project.
