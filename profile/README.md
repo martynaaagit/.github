@@ -25,7 +25,7 @@ provider of educational content
 [MTD](https://mtd-en.com/) -
 garden equipment production and distribution
 
-[Benefit Systems](https://www.benefitsystems.pl/en/) -
+[KartaMultisport](https://www.kartamultisport.pl/en/) -
 company offering employee benefits to B2B partners
 
 [Macopedia](https://macopedia.com/) -
