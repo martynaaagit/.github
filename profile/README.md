@@ -9,7 +9,7 @@ The extension makes it possible to separate the frontend application from the ba
 
 ## SEE IN ACTION
 
-TYPO3 [Headless](https://github.com/TYPO3-Headless/headless) is a stable and officialy [verified extension](https://typo3.com/typo3-cms/verified-extensions-integrations-for-typo3/extensions/headless-extension-for-typo3) that was implemented for many international organizations, user-related websites, and custom search engines.
+TYPO3 [Headless](https://github.com/TYPO3-Headless/headless) is a stable and officially [verified extension](https://typo3.com/typo3-cms/verified-extensions-integrations-for-typo3/extensions/headless-extension-for-typo3) that was implemented for many international organizations, user-related websites, and custom search engines.
 
 Check the list of some websites using TYPO3 Headless:
 
