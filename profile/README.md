@@ -19,9 +19,6 @@ English language teaching publisher
 [Raben Group](https://www.raben-group.com/) -
 international logistics partner
 
-[Pearson](https://www.pearson.pl/) -
-provider of educational content
-
 [Robomow](https://robomow.com/) -
 garden equipment production and distribution
 
