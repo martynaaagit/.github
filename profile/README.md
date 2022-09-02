@@ -1,5 +1,7 @@
 # TYPO3 Headless
 
+[![Artboard 1 kopia 2 copy 2-100](https://user-images.githubusercontent.com/110533329/188107418-6aab1ae4-740f-4180-b325-1d1308a99665.jpg)](https://extensions.typo3.org/extension/headless)
+
 ## INTRODUCTION
 
 TYPO3 [Headless](https://github.com/TYPO3-Headless/headless) allows you to change how your TYPO3-powered backend behaves on the frontend. In a traditional approach, the backend is responsible for rendering. With the headless extension, TYPO3 only provides data in form of JSON files and works as API for your application, while the frontend part consumes the JSON API and renders content using Nuxt framework.
