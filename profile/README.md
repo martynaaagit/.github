@@ -1,6 +1,6 @@
 # TYPO3 Headless
 
-[![Artboard 1 kopia 2 copy 2-100](https://user-images.githubusercontent.com/110533329/188107418-6aab1ae4-740f-4180-b325-1d1308a99665.jpg)](https://extensions.typo3.org/extension/headless)
+[![Artboard 1 kopia 2 copy 12-100](https://user-images.githubusercontent.com/110533329/195363160-da91523b-71ed-4356-a521-c46a369d1b7f.jpg)](https://macopedia.com/products/typo3-headless-and-pwa?utm_source=GitHub)
 
 ## INTRODUCTION
 
